@@ -1,5 +1,10 @@
 ## <p align="center"> Làm Game Caro Cở bản Bằng Java </p>
-<p align="center"> <img src="https://github.com/zukahai/HaiZuka/blob/master/Images/Caro-Game/1.png" alt="Tieude" /> </p>
+
+<p align="center"> 
+	
+https://github.com/zukahai/caro-board-game/assets/85035951/9b27078d-22db-4cb2-9c7b-ff5a91df8bff
+
+</p>
 
 ## Làm Game Cờ Caro Đơn Giản Bằng Java
 
