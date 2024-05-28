@@ -1,4 +1,4 @@
-## <p align="center"> Làm Game Caro Cở bản Bằng Java </p>
+## <p align="center"> Làm Game Caro (Gomoku) Cơ bản Bằng Java </p>
 
 <p align="center"> 
 	
@@ -179,7 +179,7 @@ public void addPoint(int i, int j) {
 
 ### Kết.
 
-Trên đây là cách mà mình đã tạo ra một game Caro đơn giản, nếu nhận được sự ủng hộ từ các bạn, mình sẽ biết tiếp bài tạo ra game Caro mà các bạn có thể đánh với máy với các cấp độ khác nhau.
+Trên đây là cách mà mình đã tạo ra một game Caro đơn giản, nếu nhận được sự ủng hộ từ các bạn, mình sẽ tiếp bài tạo ra game Caro mà các bạn có thể đánh với máy với các cấp độ khác nhau.
 
 
 
